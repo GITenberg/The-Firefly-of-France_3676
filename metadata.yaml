@@ -1,0 +1,30 @@
+_repo: The-Firefly-of-France_3676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Angellotti, Marion Polk
+    birthdate: 1887
+    gutenberg_agent_id: '1260'
+    url: http://www.gutenberg.org/2009/agents/1260
+description: The restaurant of the Hotel St. Ives seems, as I look back on it, an
+  odd spot to have served as stage wings for a melodrama, pure and simple. Yet a melodrama
+  did begin there. No other word fits the case. The inns of the Middle Ages, which,
+  I believe, reeked with trap-doors and cutthroats, pistols and poisoned daggers,
+  offered nothing weirder than my experience, with its first scene set beneath this
+  roof.
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'France -- History -- 1914-1940 -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Firefly of France
+url: http://www.gutenberg.org/ebooks/3676
