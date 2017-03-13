@@ -1,5 +1,8 @@
 _repo: The-Firefly-of-France_3676
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Angellotti, Marion Polk
@@ -12,6 +15,8 @@ description: The restaurant of the Hotel St. Ives seems, as I look back on it, a
   I believe, reeked with trap-doors and cutthroats, pistols and poisoned daggers,
   offered nothing weirder than my experience, with its first scene set beneath this
   roof.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3676#The-Firefly-of-France
 gutenberg_issued: '2006-04-13'
 gutenberg_type: Text
 identifiers:
